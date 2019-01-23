@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Евгений Поддубский](https://up.htmlacademy.ru/htmlcss/24/user/816327).
-* Наставник: [Сергей Рубец] कच्चा खाओ, स्वस्थ रहो! (https://htmlacademy.ru/profile/amator).
+* Наставник: [Сергей Рубец](https://htmlacademy.ru/profile/amator).
 
 ---
 
